@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ludineer.github.io/sitemap.html.gz
+Sitemap: https://ludineer.github.io/app/sitemap.html.gz
+Sitemap: https://ludineer.github.io/assets/sitemap.html.gz
+Sitemap: https://ludineer.github.io/css/sitemap.html.gz
+Sitemap: https://ludineer.github.io/includes/sitemap.html.gz
+Sitemap: https://ludineer.github.io/item/sitemap.html.gz
+Sitemap: https://ludineer.github.io/src/sitemap.html.gz
